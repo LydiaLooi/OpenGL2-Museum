@@ -1,6 +1,6 @@
 # OpenGL Museum
 
-An OpenGL2 Project for COSC363 - Computer Graphics. 
+An OpenGL2 Project for COSC363 - Computer Graphics. [Awarded A+ 100%]
 
 A detailed report can be found in the root project directory.
 
