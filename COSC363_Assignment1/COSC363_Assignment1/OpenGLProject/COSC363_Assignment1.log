@@ -1,0 +1,164 @@
+﻿  Main.cpp
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(23,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(28,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(36,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(57,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(63,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(69,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(75,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(82,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(136,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(140,64): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(142,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(149,63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(151,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(159,65): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(161,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(168,64): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(170,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(221,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(228,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(235,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(242,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(257,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(278,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(280,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(288,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(290,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(343,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(384,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(434,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(482,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(498,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(502,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(507,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(521,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(542,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Models.h(542,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(125,33): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(128,39): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(151,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(156,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(161,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(250,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(261,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(261,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(262,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(262,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(263,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(263,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(264,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(264,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(275,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(294,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(295,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(334,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(377,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(397,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(399,290): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,459): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,85): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,98): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,98): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,111): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,111): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,124): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,124): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,137): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,137): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,150): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,150): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,163): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,163): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,176): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,176): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,189): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,213): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,213): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,226): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,226): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,239): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,239): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,252): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,252): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,265): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,265): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,290): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,290): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,303): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,303): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,317): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,317): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,330): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,330): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,344): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,344): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,357): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,357): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,371): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,371): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,384): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,384): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,398): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,398): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,411): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,411): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,424): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,424): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,437): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,437): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,450): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(400,450): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(419,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(424,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(425,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(435,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(452,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(466,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(470,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(555,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(562,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(568,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(583,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(601,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(645,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(653,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(654,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(660,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(661,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(667,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(668,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(687,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(688,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(689,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(690,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(691,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(708,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(735,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(753,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(769,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(770,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(771,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(773,36): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(779,32): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(787,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(788,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(812,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(815,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(831,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(850,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(862,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(878,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(991,36): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(999,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(1015,34): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(1023,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(1057,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(1058,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(1069,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(1164,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(1165,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\COSC363_Assignment1\Main.cpp(1166,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  COSC363_Assignment1.vcxproj -> C:\Users\erkfi\source\repos\llo35_assignment1_cosc363\COSC363_Assignment1\OpenGLProject\COSC363_Assignment1.exe
