@@ -23,3 +23,6 @@ A detailed report can be found in the root project directory.
 * Install/Download any workspaces that it suggests if you need to (May require a restart). 
   * Reopen the COSC363_Assignment.sln file if needed 
 * Press “Local Windows Debugger” at the top to run the program or press Ctrl + F5
+
+## Mini video showcase
+https://youtu.be/6cB318Z2TIA
